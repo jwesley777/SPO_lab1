@@ -1,0 +1,4 @@
+#define MAX_PATH_LENGTH 256
+#define MAX_COMMAND_LENGTH 768
+#define MAX_ARG_LENGTH 256
+#define MAX_ARGS 3
